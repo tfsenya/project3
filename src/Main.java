@@ -81,6 +81,8 @@ public class Main {
         System.out.println(" ");
 
 
+        //Part 3. Improved conversation
+
         Scanner aaa = new Scanner(System.in);
         System.out.println("What is your age");
         int age5 = aaa.nextInt();
